@@ -11,7 +11,8 @@ Salvador, BA — disponível para oportunidades remotas e presenciais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-augusto-646a582a7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.devbr)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.augusto.rjs@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-1d6fe8?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-rafael.agencianubex.digital)
+[![Portfólio](https://img.shields.io/badge/Portfólio-1d6fe8?style=for-the-badge&logo=cloudflare&logoColor=white)](https://rafaelaugusto.pages.dev/)
+[![APICE Tecnology](https://img.shields.io/badge/APICE_Tecnology-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/APICE-Tecnology)
 
 </div>
 
@@ -19,7 +20,7 @@ Salvador, BA — disponível para oportunidades remotas e presenciais
 
 ### Sobre mim
 
-- Analista Técnico na **APICE** — ERP Smart Pixeon, SQL Server, Docker e pipelines de IA
+- Analista Técnico na [**APICE Tecnology**](https://github.com/APICE-Tecnology) — ERP Smart Pixeon, SQL Server, Docker e pipelines de IA
 - Cursando **Análise e Desenvolvimento de Sistemas** · UniJorge
 - Estudando **IA & Big Data** · FIAP
 - Foco em **Backend, Dados, IA e Arquitetura de Sistemas**
@@ -44,7 +45,7 @@ Salvador, BA — disponível para oportunidades remotas e presenciais
 **IA & Automação**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_/_LLM-10B981?style=for-the-badge&logo=openai&logoColor=white)
+![RAG / LLM](https://img.shields.io/badge/RAG_%2F_LLM-111827?style=for-the-badge&logo=openai&logoColor=white)
 
 **Frontend (projetos)**
 
@@ -54,13 +55,13 @@ Salvador, BA — disponível para oportunidades remotas e presenciais
 
 **Metodologias**
 
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum_%2F_Ágil-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
 **Aprendendo**
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Microservices](https://img.shields.io/badge/Micro--serviços-6366F1?style=for-the-badge&logo=moleculer&logoColor=white)
+![Micro-serviços](https://img.shields.io/badge/Micro--servi%C3%A7os-4F46E5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
